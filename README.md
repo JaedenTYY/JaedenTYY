@@ -1,8 +1,8 @@
 # Jaeden Ting Yiyong
 
-**`full-stack engineer · subang jaya, malaysia`**
+**`Software Engineering Student · Subang Jaya, Malaysia`**
 
-I build production software for the communities I belong to — a church, a fintech startup, a university incubator.
+I build production software for the communities I belong to — a church, a fintech startup.
 Not side projects. Not demos. Things that ship and that people depend on.
 
 When I'm not pushing commits, I'm behind a mixing desk doing live sound, coaching teens, or figuring out how to fix things with my hands.
@@ -81,15 +81,15 @@ Banking system UAT · PDPA & compliance exposure · customer journey design
 
 ## 🎓 Education
 
-**BSc Software Engineering (Hons)** · Sunway University × Lancaster University (Dual Award) · `2025–2026`
+**BSc Software Engineering (Hons)** · Sunway University × Lancaster University (Dual Award) · `Estimate Graduation: December 2026`
 Sunway ACE Scholar · CGPA 3.7
 
-**Diploma in Information Technology** · Sunway College · `2023–2024`
-CGPA 3.85 · Graduated with Distinction
+**Diploma in Information Technology** · Sunway College · `January 2023 – December 2024`
+CGPA 3.83 · Graduated with Distinction
 
 ---
 
-Live sound at Harvest Generation Church. Teen Bible study. Scouts Patrol Leader. School track athlete.
+Live sound engineering at Harvest Generation Church. Scouts Patrol Leader. School track athlete.
 Badminton, football, pickleball. If it can be built with hands, I want to know how.
 
 📬 [tingjaeden@gmail.com](mailto:tingjaeden@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jaedenting) · [jaedenting.site](https://jaedenting.site)
